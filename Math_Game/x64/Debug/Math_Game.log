@@ -1,0 +1,5 @@
+﻿  Math_Game.cpp
+C:\Users\DELL\Desktop\Math_Game\Math_Game\Math_Game.cpp(67,1): warning C4715: 'DetermineType': not all control paths return a value
+C:\Users\DELL\Desktop\Math_Game\Math_Game\Math_Game.cpp(107,1): warning C4715: 'SumNumbers': not all control paths return a value
+C:\Users\DELL\Desktop\Math_Game\Math_Game\Math_Game.cpp(86,1): warning C4715: 'DetermineThelevel': not all control paths return a value
+  Math_Game.vcxproj -> C:\Users\DELL\Desktop\Math_Game\Math_Game\x64\Debug\Math_Game.exe
